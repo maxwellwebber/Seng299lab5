@@ -1,0 +1,35 @@
+.project {
+	border: solid 2px #000000;
+	padding: 20px;
+	margin: 20px;
+	text-align: center;
+	width: 400px;
+	
+}
+.timelog  {
+	margin: 0 auto;
+}
+.task-name {
+	display: inline;
+}
+
+#container {
+	text-align: center;
+	position: relative;
+	height: 450px;
+}
+#header {
+	text-align: center;
+	position: relative;
+	height: 100px;
+}
+
+#div-bottom {
+	text-align: center;
+	float: bottom;
+}
+
+th {
+	text-align: center;
+	margin: 10px;
+}
